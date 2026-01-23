@@ -23,3 +23,23 @@ yarn-debug.log*
 yarn-error.log*
 
 .env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Node
+node_modules/
+
+# Data / media
+*.mp4
+*.avi
+*.mov
+*.jpg
+*.png
+self_test_images/
+videos/
+
+# OS
+.DS_Store
