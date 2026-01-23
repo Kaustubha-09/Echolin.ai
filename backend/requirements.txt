@@ -1,0 +1,9 @@
+flask
+flask-cors
+requests
+python-dotenv
+Pillow
+torch
+transformers
+opencv-python
+

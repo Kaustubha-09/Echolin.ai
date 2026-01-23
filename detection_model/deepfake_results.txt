@@ -1,0 +1,1103 @@
+Deepfake Detection Results
+==================================================
+
+File: handsome-young-model-takes-new-york-stroll-capturing-moment-with-selfie_198115-1094_jpg.rf.8c58865b6aad530f04d0e06430e46216.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: L29_jpg.rf.668e2ea648550550c9896f3d22af99f0.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: C17_jpg.rf.8437dce6864637e635a2751506b8f0a1.jpg
+Prediction: Real
+Confidence: 0.879
+------------------------------
+File: J10_jpg.rf.d4386c29bb61ae5a9586d92aa6b322a2.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: J12_jpg.rf.55bfa1f6869cb4cd72e4c1857903c016.jpg
+Prediction: Real
+Confidence: 0.999
+------------------------------
+File: H21_jpg.rf.e7c78f3cb9ddfcfa865b436559bc72cb.jpg
+Prediction: Fake
+Confidence: 0.998
+------------------------------
+File: L59_jpg.rf.cc5af56f9d03e7442897bfd460f9f971.jpg
+Prediction: Real
+Confidence: 0.999
+------------------------------
+File: L69_jpg.rf.60b70de69c9617467e73dff4e462214c.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: ai-generated-artwork-midjourney-ai-ai-art-fantasy-girl-hd-wallpaper-preview_jpg.rf.737144607339e4c0642751d457bd4ba1.jpg
+Prediction: Real
+Confidence: 0.999
+------------------------------
+File: H16_jpg.rf.57209350bcf3f24a44314c29b124c5e9.jpg
+Prediction: Real
+Confidence: 0.998
+------------------------------
+File: J53_jpg.rf.a87c3ef3080bf9c9637e31d215045930.jpg
+Prediction: Real
+Confidence: 0.999
+------------------------------
+File: K25_jpg.rf.689ec4d33468e51580337e2a63991675.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: L12_jpg.rf.d28049a926b1a14c506cd4090c38e68d.jpg
+Prediction: Fake
+Confidence: 0.998
+------------------------------
+File: L53_jpg.rf.0c8c1695ebeeab8eb3580f6255d2b2a1.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: OIP-9-_jpg.rf.2b52504e101b7f34ad871470b783b4e8.jpg
+Prediction: Fake
+Confidence: 0.983
+------------------------------
+File: elon_fake.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: L66_jpg.rf.143bbd13bb01f3d8355cb16a5f6edd64.jpg
+Prediction: Real
+Confidence: 0.999
+------------------------------
+File: L49_jpg.rf.cb1ee7c0ee6f12118a41a87949b6b6e7.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: E12_jpg.rf.5f19c55af5efddfe2648ab0304e40313.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: L37_jpg.rf.2bf7cfa8d395ad635a46e1ae6a059152.jpg
+Prediction: Fake
+Confidence: 0.994
+------------------------------
+File: OIP-13-_jpg.rf.f4d549e6a97ad7d7068baf17d910aeb6.jpg
+Prediction: Real
+Confidence: 0.735
+------------------------------
+File: J66_jpg.rf.9c656830061e79a44ae251edcb6a8e32.jpg
+Prediction: Real
+Confidence: 0.999
+------------------------------
+File: L9_jpg.rf.38678d64c7963ea26f5a3ef2b7b106d3.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: J20_jpg.rf.8f47224317d176c00a136044615ed8e6.jpg
+Prediction: Real
+Confidence: 0.999
+------------------------------
+File: J48_jpg.rf.ebf356c85ffdcae9b2a660f2bf9923f8.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: L21_jpg.rf.3524d0b642cc2b13bc2769132d711777.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: l89_jpg.rf.b36e339a880de071133d94849bef9907.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: E13_jpg.rf.ca24d8e26bc6baecc0e0cea32349521f.jpg
+Prediction: Real
+Confidence: 0.833
+------------------------------
+File: J87_jpg.rf.d990500b781f9ca47e65a3b985f5d515.jpg
+Prediction: Real
+Confidence: 0.997
+------------------------------
+File: L26_jpg.rf.edf52cba9202cadde637618b0c3e8e97.jpg
+Prediction: Fake
+Confidence: 0.960
+------------------------------
+File: J69_jpg.rf.2422f24b934a22887c1f958f6a35af2b.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: H30_jpg.rf.949792e257619f4d4844485e2131495a.jpg
+Prediction: Fake
+Confidence: 0.994
+------------------------------
+File: L95_jpg.rf.b1bf4f1ce74b1d3cc1b99412a084aed4.jpg
+Prediction: Real
+Confidence: 0.999
+------------------------------
+File: J35_jpg.rf.10bfb6f59530fae9ec4a7d4c033a2c20.jpg
+Prediction: Real
+Confidence: 0.969
+------------------------------
+File: L46_jpg.rf.0e4464a01927849ae63ce1eff38c358a.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: e736cbc2-5359-4f54-a94a-b668fbd9e93a_jpg.rf.4028db04088f969281184eb641887399.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: J93_jpg.rf.9deb17d2448653226358a0089a68ed23.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: H32_jpg.rf.e0d5f61d6fa399445f9a490d33955e55.jpg
+Prediction: Real
+Confidence: 0.944
+------------------------------
+File: K14_jpg.rf.b650f5f3d98d792b3c22e33a5503ceae.jpg
+Prediction: Real
+Confidence: 0.998
+------------------------------
+File: H31_jpg.rf.42dbd1af7fb674234d29a5f205b064bf.jpg
+Prediction: Fake
+Confidence: 0.983
+------------------------------
+File: J86_jpg.rf.8ec81eefe1f4fd2f0d0c963825b5f7d5.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: clevpntzq000bmg08z51gjqm9_1_jpg.rf.7f7f66ea8f417abd4962ddbd7a2a007d.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: J61_jpg.rf.e3b6cbb4ce11d8eeff41e107e34eafa9.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: J80_jpg.rf.51f7964a4e27ff3d6d797744b2f84e0e.jpg
+Prediction: Real
+Confidence: 0.999
+------------------------------
+File: J98_jpg.rf.65237e3e5d1b3e063a834735d4a16af3.jpg
+Prediction: Real
+Confidence: 0.999
+------------------------------
+File: H29_jpg.rf.ed45ce79ecce6e9e937442dc9130e200.jpg
+Prediction: Fake
+Confidence: 0.977
+------------------------------
+File: H15_jpg.rf.22771a99167ac57f2204c1175af2b0da.jpg
+Prediction: Real
+Confidence: 0.917
+------------------------------
+File: L33_jpg.rf.6dc1f2786b132f6f130f983f4d6ec1c7.jpg
+Prediction: Fake
+Confidence: 0.996
+------------------------------
+File: a-black-women-with-a-natural-hairstyle-ai-generated-free-photo_jpg.rf.485f278a51c58c8f7fac5ce31f485076.jpg
+Prediction: Real
+Confidence: 0.999
+------------------------------
+File: J36_jpg.rf.459f6b7197e3691fac2297ad2d3543d2.jpg
+Prediction: Fake
+Confidence: 0.999
+------------------------------
+File: L15_jpg.rf.023d2dd283335d0ec47f21f4bbc1fd58.jpg
+Prediction: Real
+Confidence: 0.905
+------------------------------
+File: K2_jpg.rf.718d38fcb72a1c3c5266efad268ab908.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: J4_jpg.rf.eef203807bea4a34c353d57619315d93.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: B9_jpg.rf.7f260592adaeb9900f7f003560164349.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: L8_jpg.rf.bc0b5d04fbf07f1af781a43bda1c1d80.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: L60_jpg.rf.6a6f4984e276765c33212aea8fa94373.jpg
+Prediction: Real
+Confidence: 0.965
+------------------------------
+File: C14_jpg.rf.2bb14fc4a7ee65c787c58566184e4f7e.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: L72_jpg.rf.93c387a23a40e8e09b929e094bd27177.jpg
+Prediction: Real
+Confidence: 0.999
+------------------------------
+File: Morgana_boy_by_Marion_Peck_03f8a4da-21c2-473a-9682-f6d978f15709_png_jpg.rf.a5548c1f0374c246116a5de237f85a52.jpg
+Prediction: Fake
+Confidence: 0.998
+------------------------------
+File: C12_jpg.rf.902e28defb74b23a62e2b9b2d8809c55.jpg
+Prediction: Fake
+Confidence: 0.995
+------------------------------
+File: J39_jpg.rf.a57040347d15c2923bc258d02b8ce9b5.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: OIP-5-_jpg.rf.772120ce6aaaa0b893c05e1650028383.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: L22_jpg.rf.a21ebc5b469b1af3820e69dba7528269.jpg
+Prediction: Real
+Confidence: 0.628
+------------------------------
+File: L70_jpg.rf.ea718480ca7d4f469b40b5a597c96a50.jpg
+Prediction: Real
+Confidence: 0.835
+------------------------------
+File: D13_jpg.rf.f6718dcd8c4bced2816673644f444296.jpg
+Prediction: Real
+Confidence: 0.996
+------------------------------
+File: H8_jpg.rf.e110052ba1d1c81bebce30d8e7c9b9e8.jpg
+Prediction: Real
+Confidence: 0.956
+------------------------------
+File: L18_jpg.rf.fb5680a36ba0cdb270395e9b6d447b0b.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: L34_jpg.rf.a87b130ce05848c2a63857e033276187.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: 6e62a7481f7ca2f6b5222358ae10be08_png_jpg.rf.7ab09455ba11ef10f8e2a061a3bd6ac2.jpg
+Prediction: Fake
+Confidence: 0.882
+------------------------------
+File: 64c1f7ad-66b2-45a6-adf7-2b4c69e2a3f7_png_jpg.rf.7002b39f1b11f875ad7e9abac0d2c286.jpg
+Prediction: Real
+Confidence: 0.999
+------------------------------
+File: H18_jpg.rf.ed915d829a71e7c616fce6f36b492a85.jpg
+Prediction: Real
+Confidence: 0.969
+------------------------------
+File: L11_jpg.rf.31215072ce361f5d29294043c59506d4.jpg
+Prediction: Real
+Confidence: 0.849
+------------------------------
+File: J94_jpg.rf.e82e76f8bbb99184fc7eb84d643aea19.jpg
+Prediction: Real
+Confidence: 0.999
+------------------------------
+File: J34_jpg.rf.cdfa00ae8652abb756b46deec29c823a.jpg
+Prediction: Fake
+Confidence: 0.999
+------------------------------
+File: J49_jpg.rf.9590c2fba1109c83beb6b6d4d3f0e839.jpg
+Prediction: Real
+Confidence: 0.999
+------------------------------
+File: J99_jpg.rf.5ab32a7fd42c10dfdec5ea09d29c357e.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: L23_jpg.rf.6ff99c5da8bc21e175973b439af745ef.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: K9_jpg.rf.2a21ffb9b5d55a8474bc58e31751395d.jpg
+Prediction: Real
+Confidence: 0.954
+------------------------------
+File: B2_jpg.rf.7365cdaf1ffe3deb5fc1846384e9ddee.jpg
+Prediction: Real
+Confidence: 0.999
+------------------------------
+File: cd844b54e6_jpg.rf.3ca108716fa8fd1f85561cf363b89427.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: H9_jpg.rf.c0e57f5b54a21fd551a6d91a72c61da6.jpg
+Prediction: Real
+Confidence: 0.986
+------------------------------
+File: J76_jpg.rf.9431e66d665be3d09c11d7ba35849394.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: E15_jpg.rf.80142776682d585167576d359c700a0f.jpg
+Prediction: Fake
+Confidence: 0.972
+------------------------------
+File: L84_jpg.rf.327af67e70bf86fddd01920c3e873e99.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: M2_jpg.rf.ac6246b9faeac500697b161176277eeb.jpg
+Prediction: Fake
+Confidence: 0.994
+------------------------------
+File: OIP-11-_jpg.rf.94b01efbd63a644eede489d6c6c1162c.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: L92_jpg.rf.fe0cbb4b9e3e0e392d3ef573f9d66012.jpg
+Prediction: Real
+Confidence: 0.992
+------------------------------
+File: H1_jpg.rf.09a62bc860c8910e18743e88f1b22613.jpg
+Prediction: Real
+Confidence: 0.999
+------------------------------
+File: L38_jpg.rf.7da79f174456aa67caa06d978246e2de.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: J46_jpg.rf.86696d50a4570a6e19d6500b835ae7e8.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: L80_jpg.rf.71097041475738824a82a5d4226d6d81.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: L16_jpg.rf.da37ec2ebb422e35521269fe0c15389e.jpg
+Prediction: Real
+Confidence: 0.999
+------------------------------
+File: L86_jpg.rf.ecd83282c0798a140e98b947e729a803.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: OIP-7-_jpg.rf.07650d1fe6a68f8430a69bcbacce8c69.jpg
+Prediction: Real
+Confidence: 0.999
+------------------------------
+File: FjLZiaAaMAE-KQO_jpg.rf.e7835c9c2932fabc72d36d28c282d96b.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: H28_jpg.rf.cd7dcd3038c2bef315c673bccd9188c5.jpg
+Prediction: Fake
+Confidence: 0.925
+------------------------------
+File: B8_jpg.rf.ae54a5cd16c716021f54447ad2878811.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: L64_jpg.rf.e6c31e10b7545044ab874c8b5be026ae.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: 6d044f35-d46c-4549-9a55-e71cdf9422df_jpg.rf.d7de0a8a8bfe55e7e6f388105f140276.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: K17_jpg.rf.4ffb212be9206e0b86cf885ebf9aad8b.jpg
+Prediction: Real
+Confidence: 0.999
+------------------------------
+File: p3aCoR_png_jpg.rf.c8e9bed0f863a2aedab197b685e866e1.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: J3_jpg.rf.72aec0341a9ea675f9d5376a9718a42a.jpg
+Prediction: Real
+Confidence: 0.997
+------------------------------
+File: L77_jpg.rf.9aaf73b09c04108a0e0d3c612511286f.jpg
+Prediction: Real
+Confidence: 0.999
+------------------------------
+File: J14_jpg.rf.141147428c7e5ccc9f0827692523a2ee.jpg
+Prediction: Fake
+Confidence: 0.953
+------------------------------
+File: J15_jpg.rf.ee0a1d554e2a497fba1c9449eb6e27b9.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: L55_jpg.rf.5ba9213a881f7917bfb7c76437044266.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: K22_jpg.rf.87ceb754b0650ed405c302c4b1caf4b1.jpg
+Prediction: Real
+Confidence: 0.992
+------------------------------
+File: K16_jpg.rf.ab318868cab08bdb695b05f2331fbef5.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: B1_jpg.rf.8ce3513b367adb6f54c2ff932ae27b2f.jpg
+Prediction: Real
+Confidence: 0.996
+------------------------------
+File: M4_jpg.rf.dfa7352e00734ced4cd330240f43d98b.jpg
+Prediction: Real
+Confidence: 0.999
+------------------------------
+File: J62_jpg.rf.b62ea397fc3175564fe9a8992bb41774.jpg
+Prediction: Real
+Confidence: 0.991
+------------------------------
+File: J41_jpg.rf.67869ceb6520b35321e46116d782d65c.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: FjLZiZ_acAIq-lf_jpg.rf.d4ef89737837e7108b164efe3d447014.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: J9_jpg.rf.eb373e5b44648a9a5382cd0770804ba9.jpg
+Prediction: Real
+Confidence: 0.999
+------------------------------
+File: K10_jpg.rf.ff98f708c509963405a49a52991f479a.jpg
+Prediction: Real
+Confidence: 0.837
+------------------------------
+File: L78_jpg.rf.1385ee2458b17ef4de0b90ba7e811857.jpg
+Prediction: Real
+Confidence: 0.928
+------------------------------
+File: L87_jpg.rf.dccc6d7e9caad320e71083356508ca63.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: J70_jpg.rf.224b18648de9e53c3271b97933df6e5c.jpg
+Prediction: Fake
+Confidence: 0.999
+------------------------------
+File: J23_jpg.rf.f3c363d9dd561be9f44e9a2b0c5f49ba.jpg
+Prediction: Real
+Confidence: 0.919
+------------------------------
+File: K21_jpg.rf.52f0fda25dc358c80168e6098c0e25ed.jpg
+Prediction: Real
+Confidence: 0.988
+------------------------------
+File: L52_jpg.rf.b2fd7a22e830b83aac3b9593cfc74ccf.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: 5a47391c03aecd1a6683c0192e8a2c96_jpg.rf.b427fbb3122f751d34d072e6c8fea4ba.jpg
+Prediction: Real
+Confidence: 0.905
+------------------------------
+File: J72_jpg.rf.7eca1e8ac22d2c3bb8419815d3e0167c.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: L17_jpg.rf.501d1a058c2ac5ee9bc1473a0799a88f.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: 210257996-portrait-of-a-handsome-senior-man-with-grey-beard-and-glasses_jpg.rf.937dc3fd97b03a520f6bccbff848d069.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: J96_jpg.rf.2e713f9375ae63fff948c36e47f983a6.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: K4_jpg.rf.36a2e7a0e812d531621c14f390c2cc50.jpg
+Prediction: Real
+Confidence: 0.983
+------------------------------
+File: L25_jpg.rf.08f46b3a38c4033fe95c4d2b8c66f002.jpg
+Prediction: Real
+Confidence: 0.669
+------------------------------
+File: L90_jpg.rf.81e75017679e080b4114a0098e7a0602.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: L50_jpg.rf.fd4dd83f2406ce868514ee5c26b0fe91.jpg
+Prediction: Real
+Confidence: 0.976
+------------------------------
+File: Vietnam_png_jpg.rf.0670126e3c01dfb8fcd303b4c1311dbe.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: J51_jpg.rf.5b2363448a2e20c9c78d038aed8c6d9f.jpg
+Prediction: Real
+Confidence: 0.999
+------------------------------
+File: H14_jpg.rf.620270eabe29e7527da831c84da2e2ce.jpg
+Prediction: Real
+Confidence: 0.999
+------------------------------
+File: J81_jpg.rf.d326cdd31f41850dfb0cb3ac61d3dde4.jpg
+Prediction: Real
+Confidence: 0.963
+------------------------------
+File: 68299225-11816267-image-a-80_1677845269627_jpg.rf.8f31367bdfc2906bd790b79de810de3c.jpg
+Prediction: Fake
+Confidence: 0.998
+------------------------------
+File: J45_jpg.rf.9cb50c82b42bcff89911ddd464414509.jpg
+Prediction: Real
+Confidence: 0.965
+------------------------------
+File: H24_jpg.rf.1396156855f1050a2705e411f1ce18b6.jpg
+Prediction: Real
+Confidence: 0.999
+------------------------------
+File: K20_jpg.rf.e12dabd2ba4d82612f05605d90144de1.jpg
+Prediction: Fake
+Confidence: 0.999
+------------------------------
+File: 4947a1559957e3231e7841c6ac4cb240_jpg.rf.609b352532f748610e21badcf928e247.jpg
+Prediction: Real
+Confidence: 0.933
+------------------------------
+File: J17_jpg.rf.28005dac2ea889c88c05407d32e08e56.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: FrbcSEnXoAErucU_jpg.rf.2df7eca09e46ab95df0d2b6581ec8e4b.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: H23_jpg.rf.120e69754226831e006def446154db82.jpg
+Prediction: Real
+Confidence: 0.999
+------------------------------
+File: J27_jpg.rf.8cc187785d7a382f32219b5a404abff8.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: 6495599e63176a001d9ccb09_jpg.rf.39f130a9e8fb315e329c1beecd83db12.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: J57_jpg.rf.66d107760b95b3733dbb47dd203452c3.jpg
+Prediction: Fake
+Confidence: 1.000
+------------------------------
+File: J95_jpg.rf.2e6250963bbb21a3739d655bad8e4dac.jpg
+Prediction: Fake
+Confidence: 0.998
+------------------------------
+File: L13_jpg.rf.0b3b88ee2b27a28ea8fc376ec0d8ab48.jpg
+Prediction: Real
+Confidence: 0.994
+------------------------------
+File: L39_jpg.rf.89a2fa90d271c5a8ae3d40ec180961cc.jpg
+Prediction: Fake
+Confidence: 0.993
+------------------------------
+File: L44_jpg.rf.df69e50a921f7bd52cc19de557ab3cc7.jpg
+Prediction: Fake
+Confidence: 0.997
+------------------------------
+File: L54_jpg.rf.37d58a943448ccfabd159f27297b6621.jpg
+Prediction: Fake
+Confidence: 0.988
+------------------------------
+File: J47_jpg.rf.ec27a6f9ae9d1cbbb505758f57468e25.jpg
+Prediction: Real
+Confidence: 0.936
+------------------------------
+File: L7_jpg.rf.3987c1be7b77798b94857e8cc8fab912.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: J54_jpg.rf.097c6d8c7b746a9fd4410132bc9533bc.jpg
+Prediction: Real
+Confidence: 0.958
+------------------------------
+File: L57_jpg.rf.0c2f6ecd590ef84db2c491da00b5e559.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: J85_jpg.rf.ff6479049d74da6a6e96b6490d78036f.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: L27_jpg.rf.e7480f1333f3b4b55cce2f66a7d15ce3.jpg
+Prediction: Fake
+Confidence: 0.992
+------------------------------
+File: 9ecd4113-a10a-4383-be57-13ca5487dba1_jpg.rf.6abd404d3e0fd23bfcffc3504597ecb0.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: H2_jpg.rf.cc992276c61738f67ac6796252b11ff8.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: A9_jpg.rf.970d0a2be1e8e4ecc06f37928a903cea.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: J90_jpg.rf.5beaad20f55e3a7be6c09e7d4b428a5f.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: M3_jpg.rf.b3d9a5f758aee679e7808441d3559ce1.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: OIP-3-_jpg.rf.7b310aa907f537f6f5b2f4db29727a5d.jpg
+Prediction: Real
+Confidence: 0.831
+------------------------------
+File: H22_jpg.rf.0fee88d57c0ea5bfa05c72626be1b5b9.jpg
+Prediction: Real
+Confidence: 0.991
+------------------------------
+File: J38_jpg.rf.827403c48bfa51dd0499ca12fc2266db.jpg
+Prediction: Real
+Confidence: 0.965
+------------------------------
+File: L63_jpg.rf.389e2827cd0bd46390ce12875b2b2065.jpg
+Prediction: Real
+Confidence: 0.999
+------------------------------
+File: J1_jpg.rf.10cb17e8a2572dca0027504dec050a53.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: J42_jpg.rf.714dc2e8d542f33ac1c1655a85e56ae9.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: J83_jpg.rf.52afd2d32f572e9303e732ddee1f8166.jpg
+Prediction: Real
+Confidence: 0.642
+------------------------------
+File: K5_jpg.rf.8a90b40d1381084cc3dfc05e8f45400e.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: L28_jpg.rf.39066a0b2045d65737705c0032872376.jpg
+Prediction: Real
+Confidence: 0.998
+------------------------------
+File: K15_jpg.rf.fb00b02eafa38164adafdcf5779bbbae.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: L32_jpg.rf.64318f2c61d014228684e3d4fa16d57b.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: L20_jpg.rf.f0f347b437926f2aa161d4f1ee34069d.jpg
+Prediction: Real
+Confidence: 0.997
+------------------------------
+File: L68_jpg.rf.af9460be2606429d8e196e4c816ffeff.jpg
+Prediction: Fake
+Confidence: 0.963
+------------------------------
+File: L1_jpg.rf.8ebde3505170a1ef403a201b7bd6b033.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: J25_jpg.rf.542ad641d4bbacf4e5195dac0379e270.jpg
+Prediction: Real
+Confidence: 0.987
+------------------------------
+File: J74_jpg.rf.8d2627f51230ae85a8352e568515089d.jpg
+Prediction: Real
+Confidence: 0.999
+------------------------------
+File: Lisa_jpg.rf.102e5d100a1068ae2013e926cc80d3b7.jpg
+Prediction: Fake
+Confidence: 0.999
+------------------------------
+File: H4_jpg.rf.a2e8018736353dbe7d8deb8734c8b5c9.jpg
+Prediction: Real
+Confidence: 0.999
+------------------------------
+File: fears-eerily-realistic-ai-generated-796012882_jpg.rf.45406efe41ad13df3be825efcb66fbc8.jpg
+Prediction: Real
+Confidence: 0.926
+------------------------------
+File: J13_jpg.rf.8cd6d569cbfe25c9138cd2ca13610130.jpg
+Prediction: Real
+Confidence: 0.988
+------------------------------
+File: L40_jpg.rf.9f1ed5ede10acb8b98a2e61411d8ffdf.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: L97_jpg.rf.f16508260e0a880eeed37c64d49352e0.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: OIP-4-_jpg.rf.dcb3cdc9dd074bb44728d7febdd95825.jpg
+Prediction: Real
+Confidence: 0.950
+------------------------------
+File: L5_jpg.rf.24fe071d6e9937acb1ede48ad1f17658.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: J11_jpg.rf.c9bed9e763ceae387d0da4a431e63c37.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: beautiful-asian-woman-fashion-model-ai-generated-free-photo_jpg.rf.808ea2e30acda7ff57163a3c27a5f1a4.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: L10_jpg.rf.f96a84cc8510415605292edac1b2dc1d.jpg
+Prediction: Real
+Confidence: 0.999
+------------------------------
+File: H11_jpg.rf.39b0a92e7790412300c66a6c5c6fbc91.jpg
+Prediction: Real
+Confidence: 0.999
+------------------------------
+File: J58_jpg.rf.cd11bdebec8ace96759ee0cbdfebf762.jpg
+Prediction: Fake
+Confidence: 0.997
+------------------------------
+File: FrbiHT3X0AIrhUZ_jpg.rf.6f84a8d8a55ab162bf0c47f9f4dc6ecf.jpg
+Prediction: Real
+Confidence: 0.999
+------------------------------
+File: J28_jpg.rf.b3f662d1976b3484994a45f08227af63.jpg
+Prediction: Real
+Confidence: 0.964
+------------------------------
+File: J31_jpg.rf.8e176de4ec3b0a9739782959f0c070bb.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: J29_jpg.rf.a7d207eb88e8f17f2c001b1e215923f6.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: k31_jpg.rf.e2cbc021d373d2c21815894ed818db7b.jpg
+Prediction: Real
+Confidence: 0.999
+------------------------------
+File: H5_jpg.rf.d46295f71cafc3b97bd99eb9d2afcfe9.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: C18_jpg.rf.45983a5438fa1bfd00af7046c5b71338.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: -_png_jpg.rf.4be0d1f31e6dea505a521606403a288c.jpg
+Prediction: Real
+Confidence: 0.921
+------------------------------
+File: OIP-1-_jpg.rf.c5a017e80d1d3aec16eca003819befde.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: H3_jpg.rf.fd1f0e2a03fa3a01399d1c47b84e5db2.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: M5_jpg.rf.9df4e801e0166bed05c0bdb986309120.jpg
+Prediction: Fake
+Confidence: 1.000
+------------------------------
+File: dfsh7gl-a334a9b2-8c88-4b98-8c3e-902d766b244b_jpg.rf.e285f7f835194385c245990e6e2fdce8.jpg
+Prediction: Fake
+Confidence: 0.948
+------------------------------
+File: K7_jpg.rf.c0183af69d8192b30c58a8e2107ce646.jpg
+Prediction: Real
+Confidence: 0.950
+------------------------------
+File: J64_jpg.rf.8094cbe02dc60e54df5f999e9f6680a5.jpg
+Prediction: Real
+Confidence: 0.996
+------------------------------
+File: L83_jpg.rf.5e41581ee95406966f26e09f18dda1d9.jpg
+Prediction: Fake
+Confidence: 0.883
+------------------------------
+File: L82_jpg.rf.7d5eb6a10796fc4b6be9b11e856ee4b5.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: 4f22c3f46d0bb737b9df76928b518acd_jpg.rf.e4754d88c484d0ddc0aca312952660b8.jpg
+Prediction: Real
+Confidence: 0.987
+------------------------------
+File: th_jpg.rf.0f69a0e76170bd1ed78e8af6f68cb88d.jpg
+Prediction: Real
+Confidence: 0.999
+------------------------------
+File: H10_jpg.rf.1bc76cee3ee5066ad415f756de1fb370.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: J22_jpg.rf.ab848f2579be1e6cd9fa125f21721bae.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: images_jpg.rf.b52db98dac8cef410a110ce8a2d15c7c.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: K19_jpg.rf.19668264018a600aed7d198a54c75973.jpg
+Prediction: Real
+Confidence: 0.999
+------------------------------
+File: K23_jpg.rf.33b5086839fa59f9977665c0d25b2596.jpg
+Prediction: Fake
+Confidence: 0.981
+------------------------------
+File: J88_jpg.rf.4fed83d354c14f9f3127faaeac25ac4a.jpg
+Prediction: Fake
+Confidence: 0.992
+------------------------------
+File: L43_jpg.rf.2ab96ba4c4b7a7134a255cf9c6a1c050.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: L56_jpg.rf.ba0048ccfdf20475994e620d9e28425b.jpg
+Prediction: Fake
+Confidence: 0.984
+------------------------------
+File: J78_jpg.rf.40a33a669d7e000a87e75f38a3b8895d.jpg
+Prediction: Fake
+Confidence: 0.999
+------------------------------
+File: 0f6dd4dd006a2628182b8786882e6090_jpg.rf.9a1a19b10cb4521a257c26d03bc96e36.jpg
+Prediction: Real
+Confidence: 0.877
+------------------------------
+File: L65_jpg.rf.2bbcd6be8b9ab72fd4aa28daabcf9a10.jpg
+Prediction: Real
+Confidence: 0.994
+------------------------------
+File: J21_jpg.rf.12bcc221d985cd9fe18ecef0374a01fd.jpg
+Prediction: Fake
+Confidence: 0.989
+------------------------------
+File: ai-generated-8058840_1280_jpg.rf.1d2382cb17c19523e665c4cb7105a0e0.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: OIP-6-_jpg.rf.bea11322806aa2afaa1854cb6b492e81.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: A10_jpg.rf.84551b5613872eb9e129639b20e24843.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: L81_jpg.rf.2951c44eea8723aaa643b15cb1590414.jpg
+Prediction: Fake
+Confidence: 0.996
+------------------------------
+File: H17_jpg.rf.265ccc600a3d31c6e9858a387aca0b94.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: H7_jpg.rf.b63b5231bfe7777911b47c51f1f4c298.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: L76_jpg.rf.8fa639bb84ca8c22195558c5986336df.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: J63_jpg.rf.a8d68e0296fc2d9edfc42ac46f09fea6.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: K13_jpg.rf.b6f357706df4e6e5500864b8dffe60ad.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: E2_jpg.rf.327313dfee63c2032b0cf644dcfcd3e6.jpg
+Prediction: Real
+Confidence: 0.998
+------------------------------
+File: J16_jpg.rf.60b6a5b507c4bff6f906b6748765ef7f.jpg
+Prediction: Real
+Confidence: 0.993
+------------------------------
+File: OIP-8-_jpg.rf.dd52d64408e06c6bd7f61dee69a9bc20.jpg
+Prediction: Fake
+Confidence: 0.925
+------------------------------
+File: J97_jpg.rf.2fe44572d50d1e958d1c3f4696fa83e8.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: H20_jpg.rf.017e8268226747ddaec447ac644ec34e.jpg
+Prediction: Real
+Confidence: 0.967
+------------------------------
+File: L36_jpg.rf.5b1ab4836231f4d022d82a4dddf2434e.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: L98_jpg.rf.4b131926ed8b4fa2ecddf84c5299a744.jpg
+Prediction: Real
+Confidence: 0.999
+------------------------------
+File: Beautiful-Teen-Girl-Portrait-57426273-1_png_jpg.rf.1df0e00ded03db6ad2fe801e6fb8c3b2.jpg
+Prediction: Real
+Confidence: 0.972
+------------------------------
+File: K6_jpg.rf.ea69ed475c7abafaa9eaeb819d1d68a6.jpg
+Prediction: Real
+Confidence: 0.764
+------------------------------
+File: L45_jpg.rf.1d55326252eae637c40ea31cea9f3c97.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: OIP-10-_jpg.rf.a917660d3ee81929bd54b5d35063055d.jpg
+Prediction: Fake
+Confidence: 0.998
+------------------------------
+File: L88_jpg.rf.985248d5cb464017b69ff7850578a113.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: J89_jpg.rf.9c3375320931e2f1a970e9f8ab44c5b8.jpg
+Prediction: Fake
+Confidence: 1.000
+------------------------------
+File: H6_jpg.rf.940299d3e365d0703136c42ce25e7df1.jpg
+Prediction: Real
+Confidence: 0.999
+------------------------------
+File: J52_jpg.rf.b8b63cb02636fe9d79d6a7a65e8cca69.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: L4_jpg.rf.ac3d2dc76af0999d4198c5e3faae1b97.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: OIP-12-_jpg.rf.ac7aae802fce04d875cb7051bcc9a18e.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: k32_jpg.rf.471dc08aeb623a1478bc18a17efc663b.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: D15_jpg.rf.8c0aa59a6ed0c81d20621afa0fd04317.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: J5_jpg.rf.f7c404909e5050fb58f4e64cfb432926.jpg
+Prediction: Real
+Confidence: 0.999
+------------------------------
+File: L96_jpg.rf.b0626388d68e1dc3d3e4adc7b9e6f3c0.jpg
+Prediction: Real
+Confidence: 0.993
+------------------------------
+File: J68_jpg.rf.527ca01e3bc143e476aef03d2daeacd4.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: M1_jpg.rf.ba3fff3483d4b31b68e3c7cbd1673254.jpg
+Prediction: Real
+Confidence: 0.985
+------------------------------
+File: L14_jpg.rf.7726a48148307e9fd9db9fa5bbe592ea.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: H12_jpg.rf.d47663fd02ca2cc6f2595b095fd3d807.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: C10_jpg.rf.123cb5b67e1e9300b878cd37a6a5f644.jpg
+Prediction: Fake
+Confidence: 0.930
+------------------------------
+File: K12_jpg.rf.4af428a4b1086372114688192156ae3f.jpg
+Prediction: Real
+Confidence: 0.999
+------------------------------
+File: L85_jpg.rf.ed107ec74fa70d398b68c323e62ced1d.jpg
+Prediction: Real
+Confidence: 0.999
+------------------------------
+File: C11_jpg.rf.a4046c44dae03fd4f968ab429ea5e7f2.jpg
+Prediction: Real
+Confidence: 0.977
+------------------------------
+File: D24_jpg.rf.e0e8eebd45279d739f8addea615f3c06.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: H13_jpg.rf.62d85b60d92e8fc3b88d0b12a1a5ae1f.jpg
+Prediction: Real
+Confidence: 0.857
+------------------------------
+File: J30_jpg.rf.51752bc7c4e64a261adbac9cbb22b0d7.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: J59_jpg.rf.39e82c63216d2ad4a6966b3bad9b6943.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: L24_jpg.rf.f1bb8190a9457a0d3a81449fb4b9216c.jpg
+Prediction: Real
+Confidence: 0.999
+------------------------------
+File: L58_jpg.rf.da5d98457082b9f31e13a950a55a3a6f.jpg
+Prediction: Real
+Confidence: 0.924
+------------------------------
+File: L61_jpg.rf.1a1aa0d4da3a9213526a34acee3eefe5.jpg
+Prediction: Fake
+Confidence: 0.957
+------------------------------
+File: J67_jpg.rf.00bf57ca0198a347860626614836d79d.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: L74_jpg.rf.3862f63109099fa31eb1be41599512a4.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: D14_jpg.rf.a3db90787a26ec9d60c58579eaf14f5d.jpg
+Prediction: Real
+Confidence: 0.995
+------------------------------
+File: L42_jpg.rf.b005debb1a380500cee8ae037d46a4f3.jpg
+Prediction: Real
+Confidence: 0.999
+------------------------------
+File: J73_jpg.rf.55dc67b906250c0f5e65e885f3b9c928.jpg
+Prediction: Real
+Confidence: 0.999
+------------------------------
+File: E8_jpg.rf.6a2c74256d40fb0b9ecf4d77db8dc5b6.jpg
+Prediction: Fake
+Confidence: 0.890
+------------------------------
+File: K8_jpg.rf.280bfd27038a11a6221f897cc4896f43.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: L93_jpg.rf.6d3e0ae20c6132baaa507b21b0589f22.jpg
+Prediction: Fake
+Confidence: 0.998
+------------------------------
+File: A11_png_jpg.rf.3d62c2cc7b1b9d4dd51c77bcc36e3d3e.jpg
+Prediction: Real
+Confidence: 1.000
+------------------------------
+File: K27_jpg.rf.7d876b5eb4e8832ec2ec4dad88f9e35a.jpg
+Prediction: Real
+Confidence: 0.919
+------------------------------

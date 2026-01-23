@@ -1,0 +1,30 @@
+[
+  {
+    "video_path": "videos/pyramids.mp4",
+    "prediction": "real",
+    "confidence": 0.8318946957588196,
+    "predicted_class_idx": 1,
+    "all_probabilities": [
+      0.1681053191423416,
+      0.8318946957588196
+    ],
+    "raw_logits": [
+      -1.0241131782531738,
+      0.5750018954277039
+    ]
+  },
+  {
+    "video_path": "videos/vlog bible.mp4",
+    "prediction": "real",
+    "confidence": 0.7975383996963501,
+    "predicted_class_idx": 1,
+    "all_probabilities": [
+      0.2024616003036499,
+      0.7975383996963501
+    ],
+    "raw_logits": [
+      -0.8981382250785828,
+      0.4728415608406067
+    ]
+  }
+]
