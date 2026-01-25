@@ -33,25 +33,44 @@ Echolin.AI analyzes every pixel and facial landmark to determine authenticity in
 
 ## Screenshots
 
-### Live Deepfake Detection
+<table>
+<tr>
+<td width="50%">
+<strong>Live Deepfake Detection</strong><br>
 The main interface for real-time deepfake detection with live camera feed and file upload capabilities.
-
-![Live Deepfake Detection](assets/images/live-detection.png)
-
-### AI Assistant Interface
+</td>
+<td width="50%">
+<strong>AI Assistant Interface</strong><br>
 Interactive conversational AI assistant for deepfake education and analysis.
-
-![AI Assistant](assets/images/ai-assistant.png)
-
-### Authentication Modal
+</td>
+</tr>
+<tr>
+<td width="50%">
+<img src="assets/images/live-detection.png" alt="Live Deepfake Detection" width="100%">
+</td>
+<td width="50%">
+<img src="assets/images/ai-assistant.png" alt="AI Assistant" width="100%">
+</td>
+</tr>
+<tr>
+<td width="50%">
+<strong>Authentication Modal</strong><br>
 Secure user authentication system with sign-in and sign-up options.
-
-![Authentication Modal](assets/images/auth-modal.png)
-
-### File Analysis in Progress
+</td>
+<td width="50%">
+<strong>File Analysis in Progress</strong><br>
 Real-time file analysis showing detection metrics and progress indicators.
-
-![File Analysis](assets/images/file-analysis.png)
+</td>
+</tr>
+<tr>
+<td width="50%">
+<img src="assets/images/auth-modal.png" alt="Authentication Modal" width="100%">
+</td>
+<td width="50%">
+<img src="assets/images/file-analysis.png" alt="File Analysis" width="100%">
+</td>
+</tr>
+</table>
 
 ## MVP Features — What We Built
 
@@ -75,45 +94,45 @@ Real-time file analysis showing detection metrics and progress indicators.
 │                         Frontend Layer                              │
 │  React + TypeScript (User Interface & Interactive Components)      │
 │  • User uploads image(s) through a clean interface                 │
-│  • Frontend handles image input and sends it to backend            │
+│  • Frontend handles image input and sends it to backend           │
 └───────────────────────────────┬─────────────────────────────────────┘
                                 │
                                 │ HTTP/REST API
                                 │
 ┌───────────────────────────────▼─────────────────────────────────────┐
 │                      Backend API Layer                              │
-│  FastAPI (Python) - Request handling, authentication, routing     │
+│  FastAPI (Python) - Request handling, authentication, routing      │
 │  • Receives image data via POST request                            │
 │  • Passes image to the model processing engine                     │
 └───────────────────────────────┬─────────────────────────────────────┘
                                 │
                 ┌───────────────┼───────────────┐
                 │               │               │
-┌───────────────▼──────┐ ┌──────▼──────┐ ┌──────▼──────┐
-│   Detection Models   │ │ LLM Service │ │  Supabase   │
-│                      │ │             │ │  (Auth/DB)  │
-│  PyTorch ViT         │ │ ChatGPT API │ │ PostgreSQL  │
-│  (Images)            │ │ (Optional)  │ │ Storage     │
-│  PyTorch ViT         │ │             │ │             │
-│  (Videos)            │ │             │ │             │
-│                      │ │             │ │             │
-│  • Uses pretrained   │ │ • Provides  │ │ • User auth │
-│    ViT transformer   │ │   detailed  │ │   & data    │
-│    (from Hugging     │ │   explanations│ │   storage   │
-│    Face) to analyze  │ │   of results │ │             │
-│    image             │ │             │ │             │
-│  • Classifies as     │ │             │ │             │
-│    Real or Fake,     │ │             │ │             │
-│    returning         │ │             │ │             │
-│    confidence score  │ │             │ │             │
-└──────────────────────┘ └─────────────┘ └─────────────┘
+┌───────────────▼──────┐ ┌───────────────▼──────┐ ┌───────────────▼──────┐
+│   Detection Models   │ │    LLM Service       │ │      Supabase        │
+│                      │ │                      │ │      (Auth/DB)        │
+│  PyTorch ViT         │ │   ChatGPT API        │ │    PostgreSQL         │
+│  (Images)            │ │   (Optional)         │ │    Storage            │
+│  PyTorch ViT         │ │                      │ │                      │
+│  (Videos)            │ │                      │ │                      │
+│                      │ │                      │ │                      │
+│  • Uses pretrained   │ │  • Provides detailed │ │  • User auth & data   │
+│    ViT transformer   │ │    explanations      │ │    storage            │
+│    (from Hugging     │ │    of results        │ │                      │
+│    Face) to analyze  │ │                      │ │                      │
+│    image             │ │                      │ │                      │
+│  • Classifies as     │ │                      │ │                      │
+│    Real or Fake,     │ │                      │ │                      │
+│    returning         │ │                      │ │                      │
+│    confidence score  │ │                      │ │                      │
+└──────────────────────┘ └──────────────────────┘ └──────────────────────┘
                 │               │               │
                 └───────────────┼───────────────┘
                                 │
 ┌───────────────────────────────▼─────────────────────────────────────┐
 │                    Response Handling                                │
 │  • Backend sends back prediction result                             │
-│  • UI displays result with image name + confidence score           │
+│  • UI displays result with image name + confidence score            │
 └─────────────────────────────────────────────────────────────────────┘
 ```
 
