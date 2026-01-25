@@ -110,20 +110,16 @@ Real-time file analysis showing detection metrics and progress indicators.
                 │               │               │
 ┌───────────────▼──────┐ ┌───────────────▼──────┐ ┌───────────────▼──────┐
 │   Detection Models   │ │    LLM Service       │ │      Supabase        │
-│                      │ │                      │ │      (Auth/DB)       │
-│  PyTorch ViT         │ │   ChatGPT API        │ │    PostgreSQL        │
-│  (Images)            │ │   (Optional)         │ │    Storage           │
-│  PyTorch ViT         │ │                      │ │                      │
-│  (Videos)            │ │                      │ │                      │
+│                      │ │                      │ │      (Auth/DB)        │
+│  PyTorch ViT         │ │   ChatGPT API        │ │    PostgreSQL         │
+│  (Images/Videos)     │ │   (Optional)         │ │    Storage            │
 │                      │ │                      │ │                      │
-│  • Uses pretrained   │ │  • Provides detailed │ │  • User auth & data  │
-│    ViT transformer   │ │    explanations      │ │    storage           │
+│  • Uses pretrained   │ │  • Provides detailed │ │  • User auth & data   │
+│    ViT transformer   │ │    explanations      │ │    storage            │
 │    (from Hugging     │ │    of results        │ │                      │
 │    Face) to analyze  │ │                      │ │                      │
-│    image             │ │                      │ │                      │
 │  • Classifies as     │ │                      │ │                      │
-│    Real or Fake,     │ │                      │ │                      │
-│    returning         │ │                      │ │                      │
+│    Real or Fake with │ │                      │ │                      │
 │    confidence score  │ │                      │ │                      │
 └──────────────────────┘ └──────────────────────┘ └──────────────────────┘
                 │               │               │
