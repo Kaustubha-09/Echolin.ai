@@ -71,51 +71,50 @@ Real-time file analysis showing detection metrics and progress indicators.
 ### 🔧 Echolin.AI Architecture: Simple, Scalable & Smart
 
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│                         Frontend Layer                          │
-│  React + TypeScript (User Interface & Interactive Components)  │
-│  • User uploads image(s) through a clean interface              │
-│  • Frontend handles image input and sends it to backend        │
-└───────────────────────┬─────────────────────────────────────────┘
-                        │
-                        │ HTTP/REST API
-                        │
-┌───────────────────────▼─────────────────────────────────────────┐
-│                      Backend API Layer                           │
-│  FastAPI (Python) - Request handling, authentication, routing   │
-│  • Receives image data via POST request                         │
-│  • Passes image to the model processing engine                  │
-└───────────────────────┬─────────────────────────────────────────┘
-                        │
-        ┌───────────────┼───────────────┐
-        │               │               │
-┌───────▼──────┐ ┌──────▼──────┐ ┌──────▼──────┐
-│   Detection  │ │   LLM       │ │  Supabase   │
-│   Models     │ │   Service   │ │  (Auth/DB)  │
-│              │ │             │ │             │
-│ PyTorch ViT  │ │ ChatGPT API │ │ PostgreSQL  │
-│ (Images)    │ │ (Optional)   │ │ Storage     │
-│ PyTorch ViT  │ │             │ │             │
-│ (Videos)    │ │             │ │             │
-│              │ │             │ │             │
-│ • Uses pretrained│ • Provides   │ • User auth  │
-│   ViT transformer│   detailed   │   & data    │
-│   (from Hugging │   explanations│   storage    │
-│   Face) to      │   of results │              │
-│   analyze image │              │              │
-│ • Classifies as │              │              │
-│   Real or Fake, │              │              │
-│   returning     │              │              │
-│   confidence    │              │              │
-│   score         │              │              │
-└───────────────┘ └─────────────┘ └─────────────┘
-                        │
-                        │
-┌───────────────────────▼─────────────────────────────────────────┐
-│                    Response Handling                             │
-│  • Backend sends back prediction result                         │
-│  • UI displays result with image name + confidence score        │
-└─────────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────────┐
+│                         Frontend Layer                              │
+│  React + TypeScript (User Interface & Interactive Components)      │
+│  • User uploads image(s) through a clean interface                 │
+│  • Frontend handles image input and sends it to backend            │
+└───────────────────────────────┬─────────────────────────────────────┘
+                                │
+                                │ HTTP/REST API
+                                │
+┌───────────────────────────────▼─────────────────────────────────────┐
+│                      Backend API Layer                              │
+│  FastAPI (Python) - Request handling, authentication, routing     │
+│  • Receives image data via POST request                            │
+│  • Passes image to the model processing engine                     │
+└───────────────────────────────┬─────────────────────────────────────┘
+                                │
+                ┌───────────────┼───────────────┐
+                │               │               │
+┌───────────────▼──────┐ ┌──────▼──────┐ ┌──────▼──────┐
+│   Detection Models   │ │ LLM Service │ │  Supabase   │
+│                      │ │             │ │  (Auth/DB)  │
+│  PyTorch ViT         │ │ ChatGPT API │ │ PostgreSQL  │
+│  (Images)            │ │ (Optional)  │ │ Storage     │
+│  PyTorch ViT         │ │             │ │             │
+│  (Videos)            │ │             │ │             │
+│                      │ │             │ │             │
+│  • Uses pretrained   │ │ • Provides  │ │ • User auth │
+│    ViT transformer   │ │   detailed  │ │   & data    │
+│    (from Hugging     │ │   explanations│ │   storage   │
+│    Face) to analyze  │ │   of results │ │             │
+│    image             │ │             │ │             │
+│  • Classifies as     │ │             │ │             │
+│    Real or Fake,     │ │             │ │             │
+│    returning         │ │             │ │             │
+│    confidence score  │ │             │ │             │
+└──────────────────────┘ └─────────────┘ └─────────────┘
+                │               │               │
+                └───────────────┼───────────────┘
+                                │
+┌───────────────────────────────▼─────────────────────────────────────┐
+│                    Response Handling                                │
+│  • Backend sends back prediction result                             │
+│  • UI displays result with image name + confidence score           │
+└─────────────────────────────────────────────────────────────────────┘
 ```
 
 ### Detection Pipeline
