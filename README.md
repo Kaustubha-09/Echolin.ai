@@ -92,32 +92,32 @@ Real-time file analysis showing detection metrics and progress indicators.
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
 │                         Frontend Layer                              │
-│  React + TypeScript (User Interface & Interactive Components)      │
-│  • User uploads image(s) through a clean interface                 │
-│  • Frontend handles image input and sends it to backend           │
+│  React + TypeScript (User Interface & Interactive Components)       │
+│  • User uploads image(s) through a clean interface                  │
+│  • Frontend handles image input and sends it to backend             │
 └───────────────────────────────┬─────────────────────────────────────┘
                                 │
                                 │ HTTP/REST API
                                 │
 ┌───────────────────────────────▼─────────────────────────────────────┐
 │                      Backend API Layer                              │
-│  FastAPI (Python) - Request handling, authentication, routing      │
-│  • Receives image data via POST request                            │
-│  • Passes image to the model processing engine                     │
+│  FastAPI (Python) - Request handling, authentication, routing       │
+│  • Receives image data via POST request                             │
+│  • Passes image to the model processing engine                      │
 └───────────────────────────────┬─────────────────────────────────────┘
                                 │
                 ┌───────────────┼───────────────┐
                 │               │               │
 ┌───────────────▼──────┐ ┌───────────────▼──────┐ ┌───────────────▼──────┐
 │   Detection Models   │ │    LLM Service       │ │      Supabase        │
-│                      │ │                      │ │      (Auth/DB)        │
-│  PyTorch ViT         │ │   ChatGPT API        │ │    PostgreSQL         │
-│  (Images)            │ │   (Optional)         │ │    Storage            │
+│                      │ │                      │ │      (Auth/DB)       │
+│  PyTorch ViT         │ │   ChatGPT API        │ │    PostgreSQL        │
+│  (Images)            │ │   (Optional)         │ │    Storage           │
 │  PyTorch ViT         │ │                      │ │                      │
 │  (Videos)            │ │                      │ │                      │
 │                      │ │                      │ │                      │
-│  • Uses pretrained   │ │  • Provides detailed │ │  • User auth & data   │
-│    ViT transformer   │ │    explanations      │ │    storage            │
+│  • Uses pretrained   │ │  • Provides detailed │ │  • User auth & data  │
+│    ViT transformer   │ │    explanations      │ │    storage           │
 │    (from Hugging     │ │    of results        │ │                      │
 │    Face) to analyze  │ │                      │ │                      │
 │    image             │ │                      │ │                      │
