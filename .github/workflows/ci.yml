@@ -1,0 +1,41 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  frontend:
+    name: Frontend build (React + TypeScript)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+      - run: npm ci
+      - run: CI=true npm run build
+        env:
+          REACT_APP_SUPABASE_URL: 'https://example.supabase.co'
+          REACT_APP_SUPABASE_ANON_KEY: 'placeholder'
+          REACT_APP_BACKEND_URL: 'http://localhost:5000'
+
+  backend:
+    name: Backend syntax check (Flask)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install backend deps
+        run: |
+          cd backend
+          pip install -r requirements.txt
+      - name: Compile-check
+        run: |
+          cd backend
+          python -m py_compile app.py detector.py agent.py llm_service.py
