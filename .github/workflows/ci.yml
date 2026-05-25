@@ -2,9 +2,9 @@ name: CI
 
 on:
   push:
-    branches: [main]
+    branches: [main, master]
   pull_request:
-    branches: [main]
+    branches: [main, master]
 
 jobs:
   frontend:
@@ -16,7 +16,7 @@ jobs:
         with:
           node-version: '20'
           cache: 'npm'
-      - run: npm ci
+      - run: npm ci || npm install --legacy-peer-deps
       - run: CI=true npm run build
         env:
           REACT_APP_SUPABASE_URL: 'https://example.supabase.co'
